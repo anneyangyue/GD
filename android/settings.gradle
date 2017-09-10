@@ -1,0 +1,3 @@
+rootProject.name = 'myGD'
+
+include ':app'
